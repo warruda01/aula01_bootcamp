@@ -1,1 +1,6 @@
-print("Olá")
+#print("Olá")
+#print (3+5)
+#print(input ("Digite seu nome -->"))
+#print ("Olá, " + input("Digite seu nome --> ") + "!")
+nome = input("digite seu nome -->")
+print (nome)
