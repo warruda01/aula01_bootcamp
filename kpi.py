@@ -1,0 +1,5 @@
+nome = input("Digite seu nome --> ")
+salario = float(input("Digite o seu salário -->"))
+valor_bonus = float(input("Digite o valor do Bonus --> "))
+bonus = float((salario * valor_bonus/100) + salario + 1000)
+print("Olá " + nome + ", seu bonus foi de " + str(bonus))

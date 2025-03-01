@@ -1,6 +1,23 @@
-# Título
+# Desafio
 
-## Subtítulo
+## Primeiro desafio da Jornada de Dados
+
+Para executar o programa é pedido:
+- nome do colaborador
+- salário
+- bonus que deve ser informado em porcentagem. 
+
+Então o programa retorna o valor total do bonus.
+
+-------------
+-------------
+-------------
+-------------
+-------------
+
+Exemplos de utilização no Readme
+
+
 
 *italico*
 
